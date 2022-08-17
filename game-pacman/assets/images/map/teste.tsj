@@ -1,0 +1,15 @@
+{ "columns":21,
+ "image":"Arcade - Pac-Man - General Sprites.png",
+ "imageheight":248,
+ "imagewidth":680,
+ "margin":0,
+ "name":"teste",
+ "spacing":0,
+ "tilecount":147,
+ "tiledversion":"1.9.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "transparentcolor":"#000000",
+ "type":"tileset",
+ "version":"1.8"
+}
